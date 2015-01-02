@@ -35,11 +35,11 @@ Here is a sample Lead document :
 }
 ```
 The required properties are :
-* "email"
-* "birthdate" (ISO8601)
-* "gender" (male/female)
-* either "firstName" or "lastName"
-* "location.country" which is a valid and NOT blacklisted ISO3 country
+* `email`
+* `birthdate` (ISO8601)
+* `gender` (male/female)
+* either `firstName` or `lastName`
+* `location.country` which is a valid and NOT blacklisted ISO3 country
 
 # Example
 ## PHP
